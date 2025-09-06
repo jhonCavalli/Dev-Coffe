@@ -51,5 +51,63 @@ header {
     font-family: "Pacifico", cursive;
 }
 
+.div-logo-img {
+    width: 3.5rem;
+    border-radius: 50%;
+}
+
+.div-list {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 2rem;
+    padding: 5px;
+}
+
+.button-list {
+    background-color: #784538;
+    border: none;
+    border-radius: 20px;
+    padding: 5px;
+    color: white;
+    font-size: 1rem;
+}
+
+.button-list:hover {
+    transform: scale(1.1);
+    transition-duration: 200ms;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.menu-list {
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+    font-family: "Poppins", sans-serif;
+    gap: 2rem;
+}
+
+.menu-link {
+    text-decoration: none;
+    color: #ffffffb3;
+    display: inline-block;
+
+
+    line-height: 1.75rem;
+    font-size: 1 25rem;
+}
+
+.menu-link:hover {
+    color: white;
+    transition: 0.3s;
+    transform: scale(1.1);
+    transition-duration: 500ms;
+    cursor: pointer;
+}
+
+.img-button-links {
+    margin-left: 5px;
+}
 
 

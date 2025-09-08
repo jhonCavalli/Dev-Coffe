@@ -110,4 +110,24 @@ header {
     margin-left: 5px;
 }
 
+@media screen and (max-width: 871px) {
+    .div-logo a {
+        font-size: 1.4rem;
+    }
+
+    .menu-link {
+        display: none;
+    }
+
+}
+
+@media screen and (max-width: 575px) {
+    header {
+        padding: 0;
+    }
+
+    .div-logo a {
+        font-size: 1rem;
+    }
+}
 

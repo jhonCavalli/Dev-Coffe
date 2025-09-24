@@ -280,8 +280,6 @@ main {
 
 
 
-
-
 @media screen and (max-width: 871px) {
     .div-logo a {
         font-size: 1.4rem;
@@ -371,3 +369,24 @@ main {
     }
 }
 }
+
+
+@media screen and (max-width: 740px) {
+    .div-card {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 3.5rem;
+
+    }
+}
+
+@media screen and (max-width: 552px) {
+    .div-card {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        gap: 3.5rem;
+
+    }
+}
+
+

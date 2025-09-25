@@ -270,6 +270,26 @@ main {
         color: white;
     }
 
+    footer {
+        background-color: #270c03;
+        min-height: 150px;
+        padding: 1rem;
+    }
+
+    .div-logo-footer {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+
+    }
+
+    .p-footer {
+        color: white;
+        font-size: 0.875rem;
+        margin-top: 1rem;
+    }
+
 
 
 

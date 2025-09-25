@@ -45,6 +45,6 @@ Créditos: Clube do Portfólio.
 
 ![Preview do Projeto](img/Captura%20de%20tela%202025-09-24%20210745.png)
 ![Preview do Projeto](img/Captura%20de%20tela%202025-09-24%20210808.png)
-![Preview do Projeto](./img/cafe-2.png)
+![Preview do Projeto](img/graos-cafe-bg.png)
 
 

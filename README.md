@@ -50,3 +50,7 @@ Créditos: Clube do Portfólio.
 ![Previewdo site](https://jhoncavalli.github.io/Dev-Coffe/)
 
 
+# <img src="icon.png" width="30"/> Cavalli Web
+
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Made with Python](https://img.shields.io/badge/Made%20with-Python-3776AB?logo=python)](https://www.python.org/)

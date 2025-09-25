@@ -47,10 +47,8 @@ Créditos: Clube do Portfólio.
 ![Preview do Projeto](img/Captura%20de%20tela%202025-09-24%20210808.png)
 ![Preview do Projeto](img/graos-cafe-bg.png)
 
-![Previewdo site](https://jhoncavalli.github.io/Dev-Coffe/)
 
 
-# <img src="img/logo-cafe.png" width="30"/> Cavalli Web
+# <img src="img/logo-cafe.png" width="30"/> Cavalli Web 
+[<img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="30"/>](https://jhoncavalli.github.io/Dev-Coffe/)
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Made with Frond-end](https://jhoncavalli.github.io/Dev-Coffe/)

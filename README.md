@@ -47,4 +47,6 @@ Créditos: Clube do Portfólio.
 ![Preview do Projeto](img/Captura%20de%20tela%202025-09-24%20210808.png)
 ![Preview do Projeto](img/graos-cafe-bg.png)
 
+![Previewdo site](https://jhoncavalli.github.io/Dev-Coffe/)
+
 
